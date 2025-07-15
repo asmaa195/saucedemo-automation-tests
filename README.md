@@ -8,9 +8,8 @@ This project contains automated tests for [saucedemo.com](https://www.saucedemo.
 
 ## 🧪 Test Scenarios
 1. ✅ **Valid Login** – Login with correct username and password.
-2. ❌ **Invalid Login** – Login with incorrect password.
-3. ❌ **Invalid Login** – Login with incorrect username.
-4. ⚠️ **Empty Fields** – Try logging in with empty username and/or password.
+2. ✅ **valid Login** – Login with correct username and password with screenshots.
+3. ❌ **Invalid Login** – Login with incorrect username with screen shot.
 
 ## 📸 Screenshots
 Screenshots for failed login attempts are saved in the `/screenshots` folder.
